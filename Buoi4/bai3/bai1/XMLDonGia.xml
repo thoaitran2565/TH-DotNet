@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DichVus>
+  <dichvu>
+    <tendv>cạo vôi</tendv>
+    <dongia>90000</dongia>
+  </dichvu>
+  <dichvu>
+    <tendv>tẩy trắng</tendv>
+    <dongia>1100000</dongia>
+  </dichvu>
+  <dichvu>
+    <tendv>chụp hình răng</tendv>
+    <dongia>200000</dongia>
+  </dichvu>
+  <dichvu>
+    <tendv>trám răng</tendv>
+    <dongia>80000</dongia>
+  </dichvu>
+</DichVus>

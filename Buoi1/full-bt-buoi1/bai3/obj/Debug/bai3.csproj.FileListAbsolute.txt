@@ -1,0 +1,6 @@
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai3\bin\Debug\bai3.exe.config
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai3\bin\Debug\bai3.exe
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai3\bin\Debug\bai3.pdb
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai3\obj\Debug\bai3.exe
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai3\obj\Debug\bai3.pdb

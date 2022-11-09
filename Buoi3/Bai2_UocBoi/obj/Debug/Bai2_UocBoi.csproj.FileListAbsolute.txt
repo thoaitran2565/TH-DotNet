@@ -1,0 +1,20 @@
+D:\vvv\Lab3\Bai2_UocBoi\bin\Debug\Bai2_UocBoi.exe.config
+D:\vvv\Lab3\Bai2_UocBoi\bin\Debug\Bai2_UocBoi.exe
+D:\vvv\Lab3\Bai2_UocBoi\bin\Debug\Bai2_UocBoi.pdb
+D:\vvv\Lab3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.csprojResolveAssemblyReference.cache
+D:\vvv\Lab3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.Form1.resources
+D:\vvv\Lab3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.Properties.Resources.resources
+D:\vvv\Lab3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.csproj.GenerateResource.Cache
+D:\vvv\Lab3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.exe
+D:\vvv\Lab3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\bin\Debug\Bai2_UocBoi.exe.config
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\bin\Debug\Bai2_UocBoi.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\bin\Debug\Bai2_UocBoi.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.csproj.AssemblyReference.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.csproj.SuggestedBindingRedirects.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.Form1.resources
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.Properties.Resources.resources
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.csproj.GenerateResource.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.csproj.CoreCompileInputs.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi3\Bai2_UocBoi\obj\Debug\Bai2_UocBoi.pdb

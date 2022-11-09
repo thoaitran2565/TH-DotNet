@@ -1,0 +1,8 @@
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe.config
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.AssemblyReference.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.SuggestedBindingRedirects.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.CoreCompileInputs.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\Lab02\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.pdb

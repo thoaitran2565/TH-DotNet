@@ -1,0 +1,14 @@
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai1\bin\Debug\bai1.exe.config
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai1\bin\Debug\bai1.exe
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai1\bin\Debug\bai1.pdb
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.exe
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\bin\Debug\bai1.exe.config
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\bin\Debug\bai1.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\bin\Debug\bai1.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.csproj.SuggestedBindingRedirects.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi1\full-bt-buoi1\bai1\obj\Debug\bai1.pdb

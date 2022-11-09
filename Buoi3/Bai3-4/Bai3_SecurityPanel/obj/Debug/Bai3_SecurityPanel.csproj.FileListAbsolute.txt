@@ -1,0 +1,20 @@
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\bin\Debug\Bai3_SecurityPanel.exe.config
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\bin\Debug\Bai3_SecurityPanel.exe
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\bin\Debug\Bai3_SecurityPanel.pdb
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.csprojResolveAssemblyReference.cache
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.Form1.resources
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.Properties.Resources.resources
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.csproj.GenerateResource.Cache
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.exe
+D:\BaiTap-TH-dotnet\Buoi3\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\bin\Debug\Bai3_SecurityPanel.exe.config
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\bin\Debug\Bai3_SecurityPanel.exe
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\bin\Debug\Bai3_SecurityPanel.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.csproj.AssemblyReference.cache
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.csproj.SuggestedBindingRedirects.cache
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.Form1.resources
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.Properties.Resources.resources
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.csproj.GenerateResource.cache
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.csproj.CoreCompileInputs.cache
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.exe
+E:\Code-window-form\BT C#\TH-DotNet\Lab03\Bai3_SecurityPanel\obj\Debug\Bai3_SecurityPanel.pdb

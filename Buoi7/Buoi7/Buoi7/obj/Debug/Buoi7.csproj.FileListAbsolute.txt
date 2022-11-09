@@ -1,0 +1,12 @@
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\bin\Debug\Buoi7.exe.config
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\bin\Debug\Buoi7.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\bin\Debug\Buoi7.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.csproj.AssemblyReference.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.csproj.SuggestedBindingRedirects.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.frmNhanVien.resources
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.Properties.Resources.resources
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.csproj.GenerateResource.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.csproj.CoreCompileInputs.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi7\Buoi7\Buoi7\obj\Debug\Buoi7.frmDMNhanVien.resources

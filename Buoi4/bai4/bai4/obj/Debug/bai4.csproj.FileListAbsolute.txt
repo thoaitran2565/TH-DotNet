@@ -1,0 +1,11 @@
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\bin\Debug\bai4.exe.config
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\bin\Debug\bai4.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\bin\Debug\bai4.pdb
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.csproj.SuggestedBindingRedirects.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.Form1.resources
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.Properties.Resources.resources
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.csproj.GenerateResource.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.exe
+E:\Code-window-form\BT C#\TH-DotNet\Buoi4\bai4\bai4\obj\Debug\bai4.pdb

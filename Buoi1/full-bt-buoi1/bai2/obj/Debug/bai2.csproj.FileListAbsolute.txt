@@ -1,0 +1,5 @@
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai2\bin\Debug\bai2.exe.config
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai2\bin\Debug\bai2.exe
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai2\bin\Debug\bai2.pdb
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai2\obj\Debug\bai2.exe
+D:\BaiTap-TH-dotnet\Buoi1\full-bt-buoi1\bai2\obj\Debug\bai2.pdb
